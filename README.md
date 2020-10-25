@@ -44,7 +44,7 @@ _ _ #
 
 To get 1 solution for the puzzle: 
 
-    $ ./game-of-life -f examples/glider.gof
+    $ ./game-of-life -f examples/glider.gof -x 10 -y 10
 
 There are a number of options to play with:
 
