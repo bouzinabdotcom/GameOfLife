@@ -42,7 +42,7 @@ _ _ #
 
 ## How to use
 
-To get 1 solution for the puzzle: 
+To try the game: 
 
     $ ./game-of-life -f examples/glider.gof -x 10 -y 10
 
@@ -77,7 +77,7 @@ There are a number of options to play with:
  - x coordinate:
  
 	Example:
-	
+
     $ ./game-of-life -x 9 -f examples/glider.gof
 
 	This puts the glider 9 cells to the right.
@@ -85,7 +85,7 @@ There are a number of options to play with:
 - y coordinate:
  
 	Example:
-	
+
     $ ./game-of-life -y 9 -f examples/glider.gof
 
 	This puts the glider 9 cells to the bottom.
