@@ -28,10 +28,10 @@ Examples of that file is provided (examples/***.gol). The ".gol" extension is op
 This tool makes a square grid with n*n cells. 
 In your .gol file you need to specify the n at the start of the file. then in the next lines specify the pattern using 0 for a dead cell and 1 for one that is alive.
 
-**Example:** Glider 
-_ # _
-_ _ #
-\# # #
+**Example:** Glider   
+_ # _  
+_ _ #  
+\# # #  
 
 **.gol format:** 
  
